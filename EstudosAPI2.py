@@ -52,5 +52,5 @@ def processarPedidos(caminho):
 
         print(f'A conversão de {pessoa} do valor {valor} {moedaOrigem} convertido para BRL foi de: {result:.2f}')
 
-processarPedidos("C:/Users/jonha/Desktop/Teste.csv")
+processarPedidos("AlgumCaminho")
 print("-"*10)
